@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Ashraful Alam Sifat</h1>
 <h3 align="center">A passionate junior MERN Stack Developer</h3>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sifat2626&theme=onedark" alt="sifat2626" />
-  </a> 
-</p>
-
 ---
 
 ### 🌐 Connect with me:
@@ -108,4 +102,30 @@
 ### 🏆 GitHub Trophies:
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=sifat2626&theme=radical&no-frame=true&margin-w=10" alt="sifat2626's GitHub Trophies" />
+</p>
+
+---
+
+### 📫 How to reach me:
+<p align="center">
+  <a href="mailto:sifat@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://linkedin.com/in/ashraful-sifat-ash26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://fb.com/ashraful.shifat" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+</p>
+
+---
+
+### 🎨 Custom Repository Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sifat2626&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/sifat2626/sifat2626/blob/main/images/banner.png" alt="Banner" />
 </p>
