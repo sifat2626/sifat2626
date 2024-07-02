@@ -24,11 +24,11 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,bootstrap,firebase,materialui" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,bootstrap,firebase" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,netlify,redux,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vite,postman" />
 </p>
 <br>
 
