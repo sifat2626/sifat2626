@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;"> 
+<p align="center" style="background-color: #ffffff; padding: 60px; border-radius: 10px;"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50" style="margin: 10px;"/> 
   </a> 
