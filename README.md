@@ -1,24 +1,22 @@
-<h1 align="center">Hi 👋, I'm Md. Ashraful Alam Sifat</h1>
-<h3 align="center">A passionate junior MERN Stack Developer</h3>
-
-<p align="center">
-  <img src="https://github.com/sifat2626/sifat2626/blob/main/images/banner.png" alt="Banner" />
+<a href="">
+<img src="https://raw.githubusercontent.com/mdmitulhossen/mdmitulhossen/main/Images/cover.png" />
+</a>
+<br/>
+<br/>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E44AF7&random=false&width=435&height=40&lines=Hi%2C+I'm+Ashraful+Sifat;Web+Developer" alt="Typing SVG" />
 </p>
+I have a passion for simplifying complex problems through elegant coding solutions. I enjoy the challenge of crafting code that's not only efficient but also beautifully structured. Collaboration is key for me—I thrive on working with teams to deliver high-quality solutions. My expertise spans HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, and TailwindCSS, among others.
 
----
+<br/>
+<br/>
 
-### 🌐 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/ashraful-sifat-ash26" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin: 30px;"/>
-  </a>
-  <a href="https://fb.com/ashraful.shifat" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" style="margin: 30px;"/>
-  </a>
-  <a href="mailto:sifat@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 30px;"/>
-  </a>
-</p>
+- 🔭 I’m currently working on Own Projects(Ground-Finder) 
+- 🌱 I’m currently learning NextJs. 
+- 👯 I’m looking to collaborate on any MERN stack related projects. 
+- 💬 Ask me about ReactJS | ExpressJS | NodeJS | MongoDB | JavaScript | HTML | CSS |  TailwindCSS | Java . 
+- 📫 How to reach me: ashrafulsifat26@gmail.com 
+- ⚡ Fun fact: Everyday I try to learn new things such as web development. 
 
 ---
 
