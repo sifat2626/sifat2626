@@ -19,6 +19,40 @@ I have a passion for simplifying complex problems through elegant coding solutio
 - ⚡ Fun fact: Everyday I try to learn new things such as web development. 
 
 ---
+##  <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Latest Projects
+
+<h3>Soulmate-Connect(Social Matrimony Platform)</h3>
+
+### Key Features
+
+- Soulmate connect is an online platform facilitating life partner search with ease.
+- Comprehensive user profiles with essential details and Customizable preferences -and partner criteria. 
+- Secure payment gateway for premium memberships, and analytics tools for monitoring platform activity. (Admin Dashboard)
+
+### <a href="https://soulmate-connect.web.app/">Live Link</a>
+
+<h3>Food-Surplus_saver(Social Matrimony Platform)</h3>
+Food-Surplus_saver is a food Sharing and Surplus Reduction community based website
+
+### Key Features
+
+- Show all surplus available food and details
+- Create listings for surplus food available for donation. Include details like type of food, quantity, and expiration date.
+- Users can create requests for specific types of food they are looking for. Manage all requested food that user created 
+
+### <a href="https://food-surplus-saver.web.app">Live Link</a>
+
+<h3>GigaGadgets (Product selling website)</h3>
+Gigagadgets is technology and electronics product selling website.Explore a curated collection of cutting-edge and innovative gadgets that redefine technology.
+
+### Key Features
+
+- Show all  available Product and details that wil sell to customer
+- Listing products according to brands and details
+- Add,Update Product and manage that and user Authentication for security perpose
+
+### <a href="https://gigagadgets-f4dcf.web.app/">Live Link</a>
+---
 
 ### 🛠️ Languages and Tools:
 <p align="center">
