@@ -1,5 +1,5 @@
 <a href="">
-<img src="https://raw.githubusercontent.com/mdmitulhossen/mdmitulhossen/main/Images/cover.png" />
+<img src="https://raw.githubusercontent.com/sifat2626/sifat2626/main/Images/cover.png" />
 </a>
 <br/>
 <br/>
@@ -17,6 +17,30 @@ I have a passion for simplifying complex problems through elegant coding solutio
 - 💬 Ask me about ReactJS | ExpressJS | NodeJS | MongoDB | JavaScript | HTML | CSS |  TailwindCSS | Java . 
 - 📫 How to reach me: ashrafulsifat26@gmail.com 
 - ⚡ Fun fact: Everyday I try to learn new things such as web development. 
+
+---
+##  <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Latest Projects
+
+<h3>Gable(Job Portal Platform)</h3>
+
+### Key Features
+- Access a wide range of job opportunities across various industries and roles.
+- Easily find jobs by location, industry, salary, and more. 
+- Track applications, save favorite listings, and manage profiles and resumes effortlessly.
+- Share insights, experiences, and career advice with our blog feature.
+
+### <a href="https://webby-522d9.web.app/">Live Link</a>
+
+<h3>Tie-The-Knot(Matrimony Platform)</h3>
+
+### Key Features
+
+- Users can create, view, and update detailed biodata, including personal information, contact details, and partner preferences
+- Offers enhanced visibility and additional customization options for biodata to attract more potential matches through payment.
+- Users can search and filter biodata based on various criteria like age, height, occupation, and location.
+- Admins can manage user biodata, oversee user activities, approve or reject biodata submissions, and maintain the overall platform efficiently.
+
+### <a href="https://tietheknot-3a6f0.web.app/">Live Link</a>
 
 ---
 
