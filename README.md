@@ -61,6 +61,12 @@ I have a passion for simplifying complex problems through elegant coding solutio
   <img src="https://github-readme-stats.vercel.app/api?username=sifat2626&show_icons=true&theme=radical" alt="sifat2626's GitHub Stats" />
 </p>
 
+## 🔥 My Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifat2626&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="sifat2626's GitHub Streak" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat2626&show_icons=true&locale=en&layout=compact&theme=radical" alt="sifat2626's Top Languages" />
 </p>
