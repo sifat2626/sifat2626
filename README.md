@@ -76,8 +76,6 @@ I have a passion for simplifying complex problems through elegant coding solutio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifat2626&theme=github-compact" alt="GitHub Contribution Graph" />
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sifat2626&theme=github)
-
 
 ---
 
