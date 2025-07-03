@@ -67,9 +67,7 @@ I have a passion for simplifying complex problems through elegant coding solutio
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat2626&show_icons=true&locale=en&layout=compact&theme=radical" alt="sifat2626's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sifat2626&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sifat2626)](https://git.io/streak-stats)
 
 ---
 
