@@ -56,19 +56,22 @@ I have a passion for simplifying complex problems through elegant coding solutio
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sifat2626&show_icons=true&theme=radical" alt="sifat2626's GitHub Stats" />
-</p>
-
-## 🔥 My Contribution Streak
+### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat2626&show_icons=true&locale=en&layout=compact&theme=radical" alt="sifat2626's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sifat2626&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=sifat2626" alt="sifat2626's Github Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sifat2626&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat2626&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifat2626&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
 ---
