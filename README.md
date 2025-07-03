@@ -71,8 +71,9 @@ I have a passion for simplifying complex problems through elegant coding solutio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifat2626&theme=radical" alt="GitHub Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=sifat2626&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=6A5ACD&currStreakLabel=FFD700&sideNums=F5F5F5" alt="GitHub Streak Stats" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sifat2626&theme=github-compact" alt="GitHub Contribution Graph" />
