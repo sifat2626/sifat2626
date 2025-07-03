@@ -68,8 +68,9 @@ I have a passion for simplifying complex problems through elegant coding solutio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifat2626&theme=radical" alt="sifat2626's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifat2626&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
+
 
 ---
 
