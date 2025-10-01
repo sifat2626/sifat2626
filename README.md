@@ -6,41 +6,28 @@
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E44AF7&random=false&width=435&height=40&lines=Hi%2C+I'm+Ashraful+Sifat;Web+Developer" alt="Typing SVG" />
 </p>
-I have a passion for simplifying complex problems through elegant coding solutions. I enjoy the challenge of crafting code that's not only efficient but also beautifully structured. Collaboration is key for me—I thrive on working with teams to deliver high-quality solutions. My expertise spans HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, and TailwindCSS, among others.
+I have a passion for simplifying complex problems through elegant coding solutions. I enjoy the challenge of crafting code that's not only efficient but also beautifully structured. Collaboration is key for me—I thrive on working with teams to deliver high-quality solutions. My expertise spans Node.js, Express.Js, MongoDB, Prisma, Postgresql.
 
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Own Projects(Ground-Finder) 
-- 🌱 I’m currently learning NextJs. 
-- 👯 I’m looking to collaborate on any MERN stack related projects. 
+- 🔭 I’m currently working at SM Technology.
+- 🌱 I’m currently learning Docker. 
 - 💬 Ask me about ReactJS | ExpressJS | NodeJS | MongoDB | JavaScript | HTML | CSS |  TailwindCSS | Java . 
 - 📫 How to reach me: ashrafulsifat26@gmail.com 
-- ⚡ Fun fact: Everyday I try to learn new things such as web development. 
 
 ---
 ##  <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Latest Projects
 
-<h3>Gable(Job Portal Platform)</h3>
+<h3>Study Companion</h3>
 
 ### Key Features
-- Access a wide range of job opportunities across various industries and roles.
-- Easily find jobs by location, industry, salary, and more. 
-- Track applications, save favorite listings, and manage profiles and resumes effortlessly.
-- Share insights, experiences, and career advice with our blog feature.
+- A tutoring platform where students upload tasks, tutors bid, and students select tutors to complete assignments.
+- Implemented real-time messaging with Socket.io for smooth communication between students and tutors.
+- Built secure REST APIs for authentication, task management, and payment workflow.
+- Tech Stack: Node.js, Express.js, Prisma, MongoDB, Socket.io
 
-### <a href="https://webby-522d9.web.app/">Live Link</a>
-
-<h3>Tie-The-Knot(Matrimony Platform)</h3>
-
-### Key Features
-
-- Users can create, view, and update detailed biodata, including personal information, contact details, and partner preferences
-- Offers enhanced visibility and additional customization options for biodata to attract more potential matches through payment.
-- Users can search and filter biodata based on various criteria like age, height, occupation, and location.
-- Admins can manage user biodata, oversee user activities, approve or reject biodata submissions, and maintain the overall platform efficiently.
-
-### <a href="https://tietheknot-3a6f0.web.app/">Live Link</a>
+### <a href="https://studycompanion.online/">Live Link</a>
 
 ---
 
