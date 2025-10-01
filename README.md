@@ -1,5 +1,5 @@
 <a href="">
-<img src="https://raw.githubusercontent.com/sifat2626/sifat2626/main/Images/Sifat-cover.png" />
+<img src="https://raw.githubusercontent.com/sifat2626/sifat2626/main/Images/sifat-cover.png" />
 </a>
 <br/>
 <br/>
